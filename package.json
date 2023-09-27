@@ -1,0 +1,13 @@
+{
+  "name": "tap-to-news",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ojuliomiguel/tap-to-news",
+  "author": "Júlio Miguel <37316841+ojuliomiguel@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "13.1.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
